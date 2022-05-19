@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working toward my Bachelor of IT
 
 ![OleHochbruegge's github stats](https://github-readme-stats.vercel.app/api?username=OleHochbruegge&show_icons=true&theme=tokyonight)
 </br>
@@ -13,7 +14,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working toward my Bachelor of IT
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
