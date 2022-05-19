@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 
-![OleHochbruegge's github stats](https://github-readme-stats.vercel.app/api?username=OleHochbruegge&show_icons=true&theme=tokyonight)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OleHochbruegge)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+![OleHochbruegge's github stats](https://github-readme-stats.vercel.app/api?username=OleHochbruegge&show_icons=true&theme=tokyonight)
 
 
 
